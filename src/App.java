@@ -85,6 +85,7 @@ public class App {
           for (Estudiante est : c5){
             System.out.println("" + est);
         }
+        
 
         // --- C7: Nota ajustada descendente; nombre ascendente; código ascendente ---
         List<Estudiante> c7 = new ArrayList<>(estudiantes);
@@ -101,7 +102,7 @@ public class App {
             return e1.getCodigo().compareTo(e2.getCodigo());
         });
         System.out.println("C7: Nota ajustada descendente; nombre ascendente; código ascendente");
-          for (Estudiante est : c5){
+          for (Estudiante est : c7){
             System.out.println("" + est);
         }
     }
