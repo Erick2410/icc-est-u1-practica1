@@ -1,6 +1,6 @@
 # Practica de Laboratorio PL2.1: Ordenamiento de estudiantes con Comparator y Comparable
 
-* **Autor:** Wilman Moises Cabrera Guerrero
+* **Autor:** Erick Fernando Solis Campoverde
 * **Carrera:** Computacion - Universidad Politecnica Salesiana
 * **Asignatura:** Estructura de Datos
 * **Version del JDK:** OpenJDK 17.0.12 *
